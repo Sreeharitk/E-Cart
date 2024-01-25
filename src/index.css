@@ -11,4 +11,5 @@ body{
   font-family: "Merriweather", serif;
   font-weight: 400;
   font-style: normal;
+  overflow-anchor: none;
 } 
